@@ -79,6 +79,14 @@ section h2 {
   color: #154733;
 }
 
+/* small tech tag under each project description */
+.tech {
+  font-size: 0.85rem;
+  color: #777;
+  font-style: italic;
+  margin-top: 6px;
+}
+
 .project-link {
   display: inline-block;
   margin-top: 10px;
